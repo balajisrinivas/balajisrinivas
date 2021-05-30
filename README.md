@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I have a Bachelors in Mechanical Engineering, yet programming became my love ❤️
 - 🥅 2021 Goals: Contribute more Python projects
-- ⚡ Fun fact: I love to draw and listen to music and travel long destinations in motorbike.
+- ⚡ Fun fact: I love to listen to music and travel long destinations in motorbike.
 
 ### Languages and Tools:
 
