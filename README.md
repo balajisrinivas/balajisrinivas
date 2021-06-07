@@ -1,5 +1,5 @@
 ### Hi there, I'm Balaji 👋 
-<h3><img src="https://komarev.com/ghpvc/?username=balajisrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="balajisrinivas" /></h3>
+<h1><img src="https://komarev.com/ghpvc/?username=balajisrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="balajisrinivas" /></h1>
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://balajis.herokuapp.com/)
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCaOiKrS-R1Nuya0pxjQ68fA)
