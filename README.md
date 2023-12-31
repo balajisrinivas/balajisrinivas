@@ -8,7 +8,7 @@
 
 <br />
 
-## I'm a Teacher, Developer, and a loving Father!!
+## I'm a Teacher, Developer, and a loving Dad!!
 
 - 🔭 I am a passionate self-taught developer from India.
 - 🌱 I’m currently learning a lot of things
